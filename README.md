@@ -14,17 +14,17 @@ This is a distributed task scheduling system that allows tasks to be executed on
 
 1. Clone the repository:
 
-git clone https://github.com/your-username/distributed-task-scheduling.git
+`git clone https://github.com/your-username/distributed-task-scheduling.git`
 
 
 2. Change into the project directory:
-
-cd distributed-task-scheduling
+  
+  `cd distributed-task-scheduling`
 
 
 3. Install the dependencies for the master and slave nodes:
 
--npm install express axios
+  `npm install express axios`
 
 
 ## Usage
@@ -37,9 +37,7 @@ cd distributed-task-scheduling
 
 3. Run the following command to start the master node:
 
-node master.js
-
-
+  `node master.js`
 
 
 4. Follow the prompts to enter the details of the slave nodes.
@@ -55,9 +53,7 @@ node master.js
 3. Run the following command to start the slave node:
 
 
-node slave.js
-
-
+  `node slave.js`
 
 4. Follow the prompts to enter the available resources of the slave node.
 
