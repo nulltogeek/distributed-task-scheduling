@@ -53,7 +53,8 @@ This is a distributed task scheduling system that allows tasks to be executed on
 3. Run the following command to start the slave node:
 
 
-  `node slave.js`
+  `PORT=3000 node slave.js`
+  `PORT=8000 node slave.js`
 
 4. Follow the prompts to enter the available resources of the slave node.
 
