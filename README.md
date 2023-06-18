@@ -14,7 +14,7 @@ This is a distributed task scheduling system that allows tasks to be executed on
 
 1. Clone the repository:
 
-`git clone https://github.com/your-username/distributed-task-scheduling.git`
+`git clone https://github.com/nultogeek/distributed-task-scheduling.git`
 
 
 2. Change into the project directory:
